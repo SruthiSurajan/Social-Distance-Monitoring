@@ -53,7 +53,7 @@ Distance calculated by the algorithm depends on how the camera is positioned.
 
 Considering top-down view of the pedestrains.  
 
-Accuracy of  the algorithm is less.
+Accuracy of the algorithm is to be improved.
 
 
 
